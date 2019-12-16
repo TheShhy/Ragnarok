@@ -1,0 +1,147 @@
+body {
+
+    text-align: center;
+    /*    background-color: #B7B9BC;*/
+    background-image: url(random-wallpapers-red-curtain-background-wallpaper-35839-2.jpg);
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.search-bar {
+
+    margin-bottom: 50px;
+    color: wheat;
+}
+
+#search {
+    background-color: ghostwhite;
+    border: 0px;
+    border-radius: 10px;
+    height: 40px;
+    width: 400px;
+        padding-left: 20px;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+#go-button {
+    background-color: #EFCB68;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#go-button:hover {
+    opacity:3}
+
+.trailer {
+
+    margin-bottom: 50px;
+}
+
+
+.plans {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    list-style-type: none;
+    color: wheat;
+}
+
+.plan1 {
+    float: left;
+    width: 250px;
+    border-style: inset;
+    margin-right: 10px;
+    border-width: thick;
+    padding-bottom: 20px;
+    border-color: wheat;
+}
+
+.plan1 h3{
+    font-size: 30px
+    
+}
+.plan1 h2 {
+    background-color: #f44336;
+    margin: auto;
+    padding: 20px;
+        color: whitesmoke;
+
+}
+
+.plan2 {
+    float: left;
+    width: 250px;
+    border-style: inset;
+    margin-right: 10px;
+    border-width: thick;
+    padding-bottom: 20px;
+border-color: wheat;
+}
+.plan2 h2 {
+    background-color: #D4AF37;
+    margin: auto;
+        color: whitesmoke;
+
+    padding: 20px;
+}
+.plan2 h3{
+    font-size: 30px
+    
+}
+
+
+.plan3 {
+    float: left;
+    width: 250px;
+    border-style: inset;
+    border-width: thick;
+    padding-bottom: 20px;
+    border-color: wheat;
+
+}
+.plan3 h2 {
+    background-color: #2F2D2E;
+    margin: auto;
+    padding: 20px;
+    color: whitesmoke;
+}
+
+.plan3 h3{
+    font-size: 30px
+    
+}
+.bookb {
+    background-color: #4CAF50;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 12px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+   transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: #EFCB68;
+    color: black;
+    border: 2px solid #f44336;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.bookb:hover {
+    background-color: #f44336;
+    color: white;
+}
