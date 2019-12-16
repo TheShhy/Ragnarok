@@ -1,0 +1,30 @@
+body {
+    width: 1150px;
+    margin-left: 10%
+    
+}
+.main { 
+width: 1150px;
+    
+}
+.image { 
+    width: 40%;
+    float:left;}
+
+.bio {
+    width: 60%;
+    float: right;
+    
+}
+.bio h1 { 
+padding-left: 100px;
+font-size: 50px}
+.bio h2 { 
+padding-left: 100px;
+font-size: 30px;
+}
+
+.bio h3 {
+    padding-left: 40px
+    
+}
