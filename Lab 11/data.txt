@@ -1,0 +1,4 @@
+Apple 300
+Mangos 300
+Onion 60
+Tomato 90
